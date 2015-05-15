@@ -1,0 +1,1 @@
+Aims to provide an HTTP pubsub solution based on long polling requests.
